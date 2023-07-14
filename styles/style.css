@@ -89,8 +89,8 @@ html {
 }
 
 .get-free-quote-container {
-  width: 100px;
-  height: 58px;
+  width: 10rem;
+  height: 6rem;
   background-color: #e47312;
   display: flex;
   align-items: center;
