@@ -130,13 +130,18 @@ html {
 .btn-orange {
   color: #fff;
   background-color: #e47312;
-  height: 30px;
-  width: fit-content;
+  height: 5rem;
+  width: 12rem;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 5px 25px;
   margin-top: 2rem;
+}
+
+.thin
+{
+  font-weight: 500;
 }
 
 .contact-information-container {
