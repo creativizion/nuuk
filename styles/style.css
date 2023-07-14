@@ -100,8 +100,9 @@ html {
 .get-free-quote {
   color: #fff;
   text-transform: uppercase;
-  font-size: 0.8rem;
-  font-weight: 500;
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 5px;
 }
 
 .hero-text-container {
